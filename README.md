@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0055-jump-game) |
 | [0204-count-primes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0204-count-primes) |
 ## Math
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
