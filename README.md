@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Subhankarnandi777/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0055-jump-game) |
+| [0509-fibonacci-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
