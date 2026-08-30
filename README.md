@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Memoization
 |  |
