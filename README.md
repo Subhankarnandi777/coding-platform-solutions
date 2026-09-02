@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -142,10 +143,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0090-subsets-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
