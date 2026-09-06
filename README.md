@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0037-sudoku-solver) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
