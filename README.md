@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
