@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0067-add-binary](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0443-string-compression) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0067-add-binary) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0287-find-the-duplicate-number) |
