@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0443-string-compression) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
