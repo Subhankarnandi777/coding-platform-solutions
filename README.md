@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Subhankarnandi777/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0202-happy-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0182-duplicate-emails) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
