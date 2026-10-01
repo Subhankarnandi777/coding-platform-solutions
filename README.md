@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
