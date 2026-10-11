@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
