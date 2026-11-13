@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0078-subsets) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Subhankarnandi777/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0205-isomorphic-strings) |
