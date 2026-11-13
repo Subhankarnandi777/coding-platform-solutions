@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Subhankarnandi777/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Matrix
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Memoization
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0713-subarray-product-less-than-k](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0904-fruit-into-baskets) |
 ## Algorithm X
 |  |
