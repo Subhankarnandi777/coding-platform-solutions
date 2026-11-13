@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0283-move-zeroes) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -255,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
