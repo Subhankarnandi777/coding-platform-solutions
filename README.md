@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0229-majority-element-ii) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -264,9 +268,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
