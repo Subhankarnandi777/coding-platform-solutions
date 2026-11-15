@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/Subhankarnandi777/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/Subhankarnandi777/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
