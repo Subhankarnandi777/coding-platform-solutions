@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2965-find-missing-and-repeated-values](https://github.com/Subhankarnandi777/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2965-find-missing-and-repeated-values](https://github.com/Subhankarnandi777/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0888-fair-candy-swap](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
