@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Subhankarnandi777/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Subhankarnandi777/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subhankarnandi777/coding-platform-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Subhankarnandi777/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
